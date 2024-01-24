@@ -1,0 +1,2 @@
+area of rectangle is:54
+perimeter of rectangle is:30

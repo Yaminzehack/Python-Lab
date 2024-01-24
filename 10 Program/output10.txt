@@ -1,0 +1,4 @@
+010101 Binary to Decimal is 21
+222 Decimal to Binary is 11011110
+0101010 Binary to Decimal is 42
+33 Decimal to Binary is 100001

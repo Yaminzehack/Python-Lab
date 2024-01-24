@@ -1,0 +1,3 @@
+Mam is not a palindrome.
+MAM is a palindrome.
+151 is a palindrome.

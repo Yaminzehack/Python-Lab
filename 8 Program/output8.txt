@@ -1,0 +1,6 @@
+After ascending sort
+[99, 96, 91, 77, 66, 65, 55, 5, 4, 1]
+After reverse or descending sort
+[99, 96, 91, 77, 66, 65, 55, 5, 4, 1]
+After reverse or descending sort
+[99, 96, 91, 77, 66, 65, 55, 5, 4, 1]
